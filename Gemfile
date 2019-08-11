@@ -6,3 +6,4 @@ ruby '2.6.3'
 
 gem 'puma'
 gem 'rack'
+gem 'slim'
