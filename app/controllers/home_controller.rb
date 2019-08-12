@@ -1,4 +1,4 @@
-class HomeController < Controller
+class HomeController < Rudy::Controller
   def index
     @page_title = 'Home Index Page'
     @array = %w[one two three]
